@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Repoman</id>
+    <version>0.1.3.0</version>
+    <authors>Britt Ballard, Jason Carter, Adam Strickland</authors>
+    <licenseUrl>http://repoman.github.com/license</licenseUrl>
+    <projectUrl>http://repoman.github.com</projectUrl>
+    <!--<iconUrl>http://repoman.github.com/images/icon.jpg</iconUrl>-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Not your daddy's repository implementation</description>
+    <summary>CSharp, the Repository pattern and Entity Framework</summary>
+    <language>en-US</language>
+  </metadata>
+</package>

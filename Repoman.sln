@@ -5,6 +5,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repoman.Core", "Repoman.Cor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repoman.Core.Test", "Repoman.Core.Test\Repoman.Core.Test.csproj", "{724894F5-99F5-40A5-8B7B-4F34318621D0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Config", "Config", "{6798F481-1593-495F-BD85-BE3B3BD82FEC}"
+	ProjectSection(SolutionItems) = preProject
+		Config\Repoman.nuspec = Config\Repoman.nuspec
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
