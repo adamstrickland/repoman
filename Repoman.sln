@@ -10,6 +10,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Config", "Config", "{6798F4
 		Config\Repoman.nuspec = Config\Repoman.nuspec
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{192247DF-1DF1-424E-940C-FF3B8387DECF}"
+	ProjectSection(SolutionItems) = preProject
+		Tools\deploy.bat = Tools\deploy.bat
+		Tools\NuGet.exe = Tools\NuGet.exe
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

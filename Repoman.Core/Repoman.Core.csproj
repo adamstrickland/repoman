@@ -69,6 +69,14 @@
     <Compile Include="ITransaction.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RepositoryContext.cs" />
+    <Compile Include="Testing\ITestHarnessContext.cs" />
+    <Compile Include="Testing\ITestHarnessRepository.cs" />
+    <Compile Include="Testing\TestHarness.cs" />
+    <Compile Include="Testing\TestHarnessContext.cs" />
+    <Compile Include="Testing\TestHarnessQuerySource.cs" />
+    <Compile Include="Testing\TestHarnessRepository.cs" />
+    <Compile Include="Testing\TestHarnessRepositoryFactory.cs" />
+    <Compile Include="Testing\TestHarnessTransaction.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
