@@ -1,0 +1,5 @@
+﻿<xunit>
+	<assemblies>
+		<assembly filename="Repoman.Core.Test.dll" shadow-copy="true" config-filename="Repoman.Core.Test.dll.config"/>
+	</assemblies>
+</xunit>
